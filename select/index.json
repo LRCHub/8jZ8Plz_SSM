@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "君がいて水になる",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-24T01:18:51.769422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君がいて水になる",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_君がいて水になる_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君がいて水になる",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_君がいて水になる_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君がいて水になる - Kimigaite Mizuninaru",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_君がいて水になる_-_Kimigaite_Mizuninaru_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『君がいて水になる』 (ZUTOMAYO - Kimigaite Mizuninaru)（Audio Track）",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_ずっと真夜中でいいのに。『君がいて水になる』_(ZUTOMAYO_-_Kimigaite_Mizuninaru)(Audio_Track)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君がいて水になる (インスト)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_君がいて水になる_(インスト)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君がいて水になる",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/06_君がいて水になる_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君がいて水になる(Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_君がいて水になる(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君がいて水になる(Instrumental)",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/08_君がいて水になる(Instrumental)_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君がいて水になる (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_君がいて水になる_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君がいて水になる (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_君がいて水になる_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がいて水になる",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_君がいて水になる_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
